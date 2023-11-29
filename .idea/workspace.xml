@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5cb1d06-25ec-4be4-84e7-0e08fbbc6e31" name="Changes" comment="Удаление второй функции.&#10;Переименование третьей функции во вторую">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,24 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="RenataBay" />
+        <option name="repository" value="GitTest1-104" />
+      </RepoCoordinatesHolder>
+    </option>
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="33033d58-cefe-4cb0-9275-6e8a2ca60014" />
+        <option name="url" value="https://github.com/Smak80/GitTest1-104.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -49,7 +66,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;xslt.associations&quot;
   }
 }</component>
   <component name="RunManager">
@@ -71,6 +88,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\I\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c5cb1d06-25ec-4be4-84e7-0e08fbbc6e31" name="Changes" comment="" />
@@ -151,7 +171,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701244522982</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Удаление второй функции.&#10;Переименование третьей функции во вторую">
+      <option name="closed" value="true" />
+      <created>1701245342219</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701245342219</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Удаление второй функции.&#10;Переименование третьей функции во вторую">
+      <option name="closed" value="true" />
+      <created>1701245560426</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701245560426</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,5 +212,32 @@
     <MESSAGE value="Третья функция" />
     <MESSAGE value="Удаление второй функции.&#10;Переименование третьей функции во вторую" />
     <option name="LAST_COMMIT_MESSAGE" value="Удаление второй функции.&#10;Переименование третьей функции во вторую" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="GitTest1-104104" type="b2602c69:ProjectViewProjectNode" />
+        <item name="dir{file://C:/Users/I/Kotlin/GitTest1-104104}" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="GitTest1-104104" type="b2602c69:ProjectViewProjectNode" />
+        <item name="dir{file://C:/Users/I/Kotlin/GitTest1-104104}" type="462c0819:PsiDirectoryNode" />
+        <item name="dir{file://C:/Users/I/Kotlin/GitTest1-104104/src}" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="GitTest1-104104" type="b2602c69:ProjectViewProjectNode" />
+        <item name="dir{file://C:/Users/I/Kotlin/GitTest1-104104}" type="462c0819:PsiDirectoryNode" />
+        <item name="dir{file://C:/Users/I/Kotlin/GitTest1-104104/src}" type="462c0819:PsiDirectoryNode" />
+        <item name="dir{file://C:/Users/I/Kotlin/GitTest1-104104/src/main}" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="GitTest1-104104" type="b2602c69:ProjectViewProjectNode" />
+        <item name="dir{file://C:/Users/I/Kotlin/GitTest1-104104}" type="462c0819:PsiDirectoryNode" />
+        <item name="dir{file://C:/Users/I/Kotlin/GitTest1-104104/src}" type="462c0819:PsiDirectoryNode" />
+        <item name="dir{file://C:/Users/I/Kotlin/GitTest1-104104/src/main}" type="462c0819:PsiDirectoryNode" />
+        <item name="dir{file://C:/Users/I/Kotlin/GitTest1-104104/src/main/kotlin}" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
   </component>
 </project>
