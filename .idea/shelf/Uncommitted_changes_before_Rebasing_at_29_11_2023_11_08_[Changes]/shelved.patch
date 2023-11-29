@@ -1,0 +1,36 @@
+Index: src/main/kotlin/main.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>fun oneMoreFun(){\r\n    println(\"Еще функция\")\r\n}\r\n\r\nfun secondFun(){\r\n    println(\"Функция 2\")\r\n}\r\n\r\nfun main() {\r\n    println(\"Hi!\")\r\n    println(\"И снова здравствуйте!\")\r\n    println(\"Просто для еще одного коммита\")\r\n    oneMoreFun()\r\n    secondFun()\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/kotlin/main.kt b/src/main/kotlin/main.kt
+--- a/src/main/kotlin/main.kt	(revision 34493848ac2e3a36d8837cd69dbe48529449c874)
++++ b/src/main/kotlin/main.kt	(date 1701245286753)
+@@ -12,4 +12,9 @@
+     println("Просто для еще одного коммита")
+     oneMoreFun()
+     secondFun()
++    fun3()
++}
++
++fun fun3() {
++    println("1")
+ }
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_17\" default=\"true\" project-jdk-name=\"17\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 34493848ac2e3a36d8837cd69dbe48529449c874)
++++ b/.idea/misc.xml	(date 1701245137967)
+@@ -1,4 +1,3 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
